@@ -49,10 +49,11 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
-## Relevant Links and commands for Setup
+## Relevant Links and Commands for Setup
 - https://www.nativewind.dev/quick-starts/expo
 - https://www.nativewind.dev/v4/getting-started/typescript
 - https://docs.expo.dev/guides/using-eslint/ 
+- Get Assets; Define Types; Define Constants; Setup File/Route Structure
 - `npm i react-native-safe-area-context`
 - `npm i react-native-swiper`
 - https://console.neon.tech/app/projects
