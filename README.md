@@ -58,13 +58,15 @@ Join our community of developers creating universal apps.
    npm i react-native-safe-area-context
    npm i react-native-swiper
    npx expo install react-dom react-native-web @expo/metro-runtime
-   npm install @clerk/clerk-expo
-   npm install expo-secure-store
-   npm install react-native-modal
+   npm i @clerk/clerk-expo
+   npm i expo-secure-store
+   npm i react-native-modal
    npm i expo-local-authentication
+   npm i @neondatabase/serverless 
 ```
 - https://console.neon.tech/app/projects
 - https://clerk.com/
 - https://clerk.com/docs/quickstarts/expo
 - https://clerk.com/docs/custom-flows/oauth-connections
-- `
+- https://docs.expo.dev/router/reference/api-routes/
+- change app.json -> web: output AND plugins: origin; ADD origin url to env
