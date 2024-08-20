@@ -56,7 +56,7 @@ const Welcome = () => {
             ? router.replace("/(auth)/sign-up")
             : swiperRef.current?.scrollBy(1)
         }
-        className="w-4/5 mt-10 mb-5"
+        className="w-4/5 mt-5 mb-10"
       />
 
     </SafeAreaView>

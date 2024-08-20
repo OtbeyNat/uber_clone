@@ -53,7 +53,18 @@ Join our community of developers creating universal apps.
 - https://www.nativewind.dev/quick-starts/expo
 - https://www.nativewind.dev/v4/getting-started/typescript
 - https://docs.expo.dev/guides/using-eslint/ 
-- Get Assets; Define Types; Define Constants; Setup File/Route Structure
-- `npm i react-native-safe-area-context`
-- `npm i react-native-swiper`
+- Setup Tailwind/Nativewind Css; Get Assets; Define Types; Define Constants; Setup File/Route Structure
+```bash
+   npm i react-native-safe-area-context
+   npm i react-native-swiper
+   npx expo install react-dom react-native-web @expo/metro-runtime
+   npm install @clerk/clerk-expo
+   npm install expo-secure-store
+   npm install react-native-modal
+   npm i expo-local-authentication
+```
 - https://console.neon.tech/app/projects
+- https://clerk.com/
+- https://clerk.com/docs/quickstarts/expo
+- https://clerk.com/docs/custom-flows/oauth-connections
+- `
