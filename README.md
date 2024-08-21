@@ -66,6 +66,7 @@ Join our community of developers creating universal apps.
    npm i react-native-maps react-native-maps-directions
    npm i zustand
    npm i expo-location
+   npm i react-native-google-places-autocomplete
 ```
 - https://console.neon.tech/app/projects
 - https://clerk.com/
