@@ -63,6 +63,9 @@ Join our community of developers creating universal apps.
    npm i react-native-modal
    npm i expo-local-authentication
    npm i @neondatabase/serverless 
+   npm i react-native-maps react-native-maps-directions
+   npm i zustand
+   npm i expo-location
 ```
 - https://console.neon.tech/app/projects
 - https://clerk.com/
@@ -70,3 +73,5 @@ Join our community of developers creating universal apps.
 - https://clerk.com/docs/custom-flows/oauth-connections
 - https://docs.expo.dev/router/reference/api-routes/
 - change app.json -> web: output AND plugins: origin; ADD origin url to env
+- https://www.geoapify.com/
+- console.cloud.google.com --- 1) Places API 2) Directions API
