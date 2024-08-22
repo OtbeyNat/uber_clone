@@ -10,7 +10,6 @@ import { ActivityIndicator, FlatList, Image, Text, TouchableOpacity, View } from
 import { SafeAreaView } from 'react-native-safe-area-context'
 import * as Location from 'expo-location';
 
-
 const recentRides = [
   {
       "ride_id": "1",
@@ -127,8 +126,8 @@ export default function Page() {
     longitude: number;
     address: string;
   }) => {
-    // setDestinationLocation(location);
-    // router.push("/(root)/find-ride");
+    setDestinationLocation(location);
+    router.push("/(root)/find-ride");
   };
 
   useEffect(() => {

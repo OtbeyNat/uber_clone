@@ -67,6 +67,8 @@ Join our community of developers creating universal apps.
    npm i zustand
    npm i expo-location
    npm i react-native-google-places-autocomplete
+   npm i react-native-gesture-handler
+   npm i @gorhom/bottom-sheet
 ```
 - https://console.neon.tech/app/projects
 - https://clerk.com/

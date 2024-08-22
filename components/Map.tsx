@@ -42,7 +42,7 @@ const drivers = [
         "car_image_url": "https://ucarecdn.com/b6fb3b55-7676-4ff3-8484-fb115e268d32/-/preview/930x932/",
         "car_seats": 4,
         "rating": "4.90"
-    }
+    },
 ]
 
 const Map = () => {
@@ -67,6 +67,9 @@ const Map = () => {
     })
 
     useEffect(() => {
+        // TODO: REMOVE
+        setDrivers(drivers);
+
         if (Array.isArray(drivers)) {
           if (!userLatitude || !userLongitude) return;
     
