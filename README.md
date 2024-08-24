@@ -69,6 +69,9 @@ Join our community of developers creating universal apps.
    npm i react-native-google-places-autocomplete
    npm i react-native-gesture-handler
    npm i @gorhom/bottom-sheet
+   npm install stripe --save
+   npm install @stripe/stripe-react-native
+   npm i expo-linking
 ```
 - https://console.neon.tech/app/projects
 - https://clerk.com/
@@ -78,3 +81,5 @@ Join our community of developers creating universal apps.
 - change app.json -> web: output AND plugins: origin; ADD origin url to env
 - https://www.geoapify.com/
 - console.cloud.google.com --- 1) Places API 2) Directions API
+- https://docs.stripe.com/payments/accept-a-payment-deferred
+- https://docs.stripe.com/payments/accept-a-payment?platform=react-native&ui=payment-sheet
